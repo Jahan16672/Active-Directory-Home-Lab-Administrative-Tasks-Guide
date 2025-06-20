@@ -50,6 +50,7 @@ Active Directory Users and Computers (ADUC) allows you to locate and manage vari
 ![image](https://github.com/user-attachments/assets/1a7c4175-9c49-4547-ba94-05c7fb2f59f5)
 
 ***Ref-1 Finding Objects in Active Directory***
+
 ---
 
 ## 2. Password Reset Operations
